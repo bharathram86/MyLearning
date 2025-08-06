@@ -1,0 +1,32 @@
+1. Client - Server Architecture
+2. IP Address 
+3. Domain Name system 
+4. Proxy / Reverse Proxy 
+5. Latency 
+6. HTTP/HTTPS
+7. API's
+8. REST
+9. GRAPHQL
+10. Database
+11. SQL / NO SQL / In Memory 
+12. Vertical Scaling
+13. Horizontal Scaling 
+14. Load Balancer 
+15. Indexing 
+16. Replication 
+17. Sharding 
+18. Vertical Partitioning
+19. Caching 
+20. Denormalization 
+21. CAP Theorem
+22. BLOB Storage
+23. CDN Content Delivery Network
+24. Websockets 
+25. Webhooks 
+26. Microservices
+27. Messaging Queues 
+28. Rate Limiting
+29. API Gateway
+30. Idempotency 
+
+Need to master these things in detail.
